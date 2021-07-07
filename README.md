@@ -1,1 +1,1 @@
-# railway-ticket-management-proj
+# Railway Ticket Management using C Language.
