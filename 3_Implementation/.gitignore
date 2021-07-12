@@ -1,0 +1,15 @@
+*.gcda 
+*.gcno 
+*.gcov
+.vscode
+# Doxygen Ouput
+*html
+# Prerequisites
+*.d
+
+# Executables
+*.exe
+*.out
+# Kernel Module Compile Results
+*.mod*
+*.cmd
