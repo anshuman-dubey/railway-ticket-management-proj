@@ -1,0 +1,4 @@
+make.exe all -f "C:\Users\Anshuman Dubey\Documents\GitHub\railway-ticket-management-proj\3_Implementation\" --dry-run --keep-going --print-directory
+'"make.exe"' is not recognized as an internal or external command,
+operable program or batch file.
+ 
