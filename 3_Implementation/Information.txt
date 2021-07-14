@@ -1,0 +1,21 @@
+Alloted Seat:50
+Name:Anshuman
+Sex:Dubey
+Age:12
+Email:gds@gmaol.com
+Contact Number:3232
+Train Number:22511
+Alloted Seat:50
+Name:Anshuman
+Sex:Dubey
+Age:22
+Email:anshuman@gmail.com
+Contact Number:8149337988
+Train Number:22511
+Alloted Seat:50
+Name:Anshuman
+Sex:M
+Age:22
+Email:anshuman@gmail.com
+Contact Number:8123232323
+Train Number:12105
